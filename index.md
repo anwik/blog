@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: Random thoughts in no order
 ---
-I'm not good at this
